@@ -104,3 +104,8 @@
                         ||----w |
                         ||     ||
 
+6. (10 puntos) ¿Que respuesta les dio la psicoterapeuta a la pregunta "what is life?"
+    
+    Yo: for you, what is life?
+    
+    ELiza: WE WERE DISCUSSING YOU -- NOT ME.
