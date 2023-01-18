@@ -109,3 +109,10 @@
     Yo: for you, what is life?
     
     ELiza: WE WERE DISCUSSING YOU -- NOT ME.
+
+    70
+
+7. (10 puntos) Traduzcan la siguiente frase a clave morse: ye shall be as gods
+
+    - -.-- .  ... .- .... .-.. .-..  -... .  .- ...  --. --- -.. ...
+
