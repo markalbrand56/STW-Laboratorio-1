@@ -143,9 +143,11 @@
                         `---
 
 9. (10 puntos) ¿Cuál es el path de tcp entre telehack.com y el host "ecord"?
-
     - telehack!mimsy!uunet!atina!ecord
+    
 
 10. (5 puntos) ¿Pueden dibujar un path en ascii entre esos hosts?
 
-
+        +----------+     +-------+     +-------+     +-------+     +-------+
+        | telehack | --> | mimsy | --> | uunet | --> | atina | --> | ecord |
+        +----------+     +-------+     +-------+     +-------+     +-------+
