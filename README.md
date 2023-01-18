@@ -4,14 +4,8 @@
     - Hello World!
 
 
-2. (5 puntos) Escriban su nombre en ASCII (ascii art, no decimal)
-
-        ___  ___  ___  ______ _   __ 
-        |  \/  | / _ \ | ___ \ | / / 
-        | .  . |/ /_\ \| |_/ / |/ /  
-        | |\/| ||  _  ||    /|    \  
-        | |  | || | | || |\ \| |\  \ 
-        \_|  |_/\_| |_/\_| \_\_| \_/ 
+2. (5 puntos) ¿Cuanto tiempo lleva encendido el server de telehack.com?
+    - up 22d, since 2022-Dec-26  02:50:41
                              
 3. (20 puntos) Copien el titulo, la fecha de publicación y el primer parrafo de dos de los siguientes rfc históricos: 
     - 318: Telnet Protocol. 3-abril-1972. At the October 1971 Network Working Group Meeting, I promised to
@@ -144,7 +138,7 @@
 
 9. (10 puntos) ¿Cuál es el path de tcp entre telehack.com y el host "ecord"?
     - telehack!mimsy!uunet!atina!ecord
-    
+
 
 10. (5 puntos) ¿Pueden dibujar un path en ascii entre esos hosts?
 
